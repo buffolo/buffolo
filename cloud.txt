@@ -1,7 +1,7 @@
 {
 	"key":{
 		"web_site":"https://fengcheyunma.net/",
-		"web_api":["https://fengcheyunma.net/","https://www.solvetech.xyz/"],
+		"web_api":["http://fengcheyunma.net/","https://www.solvetech.xyz/"],
 		"app_api":"https://app.solvetech.xyz/", 
 		"ext_api":["wss://ext8.solvetech.xyz/","ws://ext5.solvetech.xyz/","wss://ext4.windmillcdn.xyz/","ws://ext5.windmillcdn.xyz/","ws://109.74.203.21:8090/","ws://192.81.131.32:8090/"]
 	},
