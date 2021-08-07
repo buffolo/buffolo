@@ -5,8 +5,8 @@
 		"app_api":"https://app.solvetech.xyz/", 
 		"ext_api":["wss://ext8.solvetech.xyz/","ws://ext5.solvetech.xyz/","wss://ext4.windmillcdn.xyz/","ws://ext5.windmillcdn.xyz/","ws://109.74.203.21:8090/","ws://192.81.131.32:8090/"]
 	},
-	"ext_min_ver":1.0,
-	"and_min_ver":1.0,
-	"ios_min_ver":1.0,
-	"win_min_ver":1.0
+	"ext_min_ver":3.80,
+	"and_min_ver":2.56,
+	"ios_min_ver":1.8,
+	"win_min_ver":1.3
 }
