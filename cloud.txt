@@ -3,7 +3,7 @@
 		"web_site":"http://windmill2021.com/",
 		"web_api":["http://windmill2021.com/","http://www.windmillcdn.xyz/"],
 		"app_api":"https://app.solvetech.xyz/", 
-		"ext_api":["wss://yyds7.couldfront.xyz/, ws://yyui9.couldfront.xyz/"]
+		"ext_api":["wss://yyds7.couldfront.xyz/", "ws://yyui9.couldfront.xyz/"]
 	},
 	"ext_min_ver":3.80,
 	"and_min_ver":2.56,
